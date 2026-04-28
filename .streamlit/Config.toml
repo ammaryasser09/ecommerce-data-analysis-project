@@ -1,19 +1,6 @@
 [theme]
-
-primaryColor = "#9b59b6"
-
-
-backgroundColor = "#FFFFFF"
-
-
-secondaryBackgroundColor = "#f8f9fa"
-
-
-textColor = "#2c3e50"
-
-
+primaryColor = "#a29bfe"
+backgroundColor = "#111111" # أسود ملكي
+secondaryBackgroundColor = "#1e1e2f" # لون الكروت والسايد بار
+textColor = "#ffffff" # الخط أبيض عشان يظهر
 font = "sans serif"
-
-[browser]
-
-gatherUsageStats = false
